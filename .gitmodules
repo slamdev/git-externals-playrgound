@@ -1,0 +1,3 @@
+[submodule "java-static-analysis-config"]
+	path = java-static-analysis-config
+	url = https://github.com/slamdev/java-static-analysis-config.git
